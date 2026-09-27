@@ -28,7 +28,9 @@ Foram utilizados os arquivos de acidentes agrupados por ocorrência referentes a
 - 2024
 - 2025
 
-Os arquivos foram disponibilizados em formato CSV e carregados no Databricks utilizando ponto e vírgula (`;`) como delimitador.
+Os arquivos foram disponibilizados em formato CSV e carregados no Databricks utilizando ponto e vírgula (`;`) como delimitador. 
+
+**Licença e uso dos dados:** Os dados utilizados são disponibilizados publicamente pela Polícia Rodoviária Federal (PRF) em seu Portal de Dados Abertos, para acesso e reutilização das informações públicas.
 
 Fonte: [Portal de Dados Abertos da Polícia Rodoviária Federal (PRF)](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
 
