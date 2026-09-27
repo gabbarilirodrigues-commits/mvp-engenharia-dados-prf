@@ -162,6 +162,19 @@ A análise permitiu observar a evolução dos sinistros ao longo dos anos, os es
 
 O desenvolvimento deste MVP foi importante para colocar em prática os conceitos estudados na disciplina de Engenharia de Dados.
 
+## 10. Evidências do projeto
+
+Foram incluídas neste repositório evidências das principais etapas desenvolvidas no Databricks, incluindo:
+
+- armazenamento dos dados no ambiente de nuvem;
+- criação das tabelas da camada Bronze;
+- consolidação e padronização da camada Silver;
+- verificações de qualidade dos dados;
+- criação das tabelas da camada Gold;
+- visualizações utilizadas para responder às perguntas de negócio.
+
+Os arquivos de evidência estão disponíveis neste repositório em formato PNG, numerados de 01 a 18.
+
 A principal dificuldade encontrada foi organizar as diferentes etapas do pipeline e realizar o tratamento dos dados para utilização nas análises. Também foi necessário trabalhar com diferenças nos tipos de dados entre os arquivos e com limitações de codificação de caracteres presentes em alguns campos de texto.
 
 Como possibilidade de evolução do projeto, poderiam ser incluídos novos anos da base da PRF, novas análises e outros indicadores relacionados aos sinistros nas rodovias federais.
